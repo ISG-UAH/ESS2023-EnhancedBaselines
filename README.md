@@ -8,3 +8,4 @@ Public repository with supporting materials for the paper "Enhancement of solar 
 - Scipy
 - Matplotlib
 - Seaborn
+- SymPy
